@@ -100,7 +100,7 @@ Your django it's live now open your browser.
 
 
 
-# ![store page screenshort](https://user-images.githubusercontent.com/102142382/208730526-77fd2e01-b2be-4da5-b3c4-fcabbc42a9bf.png)
+# ![store page screenshort](https://user-images.githubusercontent.com/102142382/208738876-32a3f61f-e189-492d-ad5f-c05938c796f7.png)
 # ![cart page screenshort](https://user-images.githubusercontent.com/102142382/208731162-2e2a5abc-c0bf-4225-a419-e9a6836f753d.png)
 # ![chechout page screenshort](https://user-images.githubusercontent.com/102142382/208731247-371c87f1-74c1-4f49-ad9e-8f364d28b50e.png)
 # ![payment integration page](https://user-images.githubusercontent.com/102142382/208731513-41fce721-5182-4de1-89be-880c0461917c.png)
