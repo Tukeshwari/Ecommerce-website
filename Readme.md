@@ -23,11 +23,11 @@ the products, it is sent for the order confirmation process. This website is imp
 
 ### Scope
 
--We have simple website with our store, customers can select products to 'Add to cart' button, and can remove products from their cart specifying the quantity of each item. Selected items will be collected in a cart. At checkout, the item on the card will be presented as an order. Customer can pay for the items in the cart to complete an order.
+-We have simple website with our store, customers can select products to 'Add to cart' button, and can remove products from their cart specifying the quantity of each item. Selected items will be collected in a cart. At checkout, the item on the card will be presented as an order. Customer can pay for the items in the cart to complete an order [live site](https://tukeshwari2.pythonanywhere.com/).
 
 ### Links
 
-- Live Site URL: [Add live site URL her(https://tukeshwari2.pythonanywhere.com/)
+- Live Site URL: [Add live site URL here](https://tukeshwari2.pythonanywhere.com/)
 
 
 
