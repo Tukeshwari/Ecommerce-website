@@ -18,12 +18,12 @@
 
 
 - This project deals with developing a Virtual website 'E-commerce Website'. It provides the user with a list of the various products available for purchase in the store. For the convenience of online shopping, a shopping cart is provided to the user. After the selection of
-the products, it is sent for the order confirmation process. This website is implemented using Python's webframework Django.
+the products, it is sent for the order confirmation process. This website is implemented using Python's webframework Django [live site](https://tukeshwari2.pythonanywhere.com/).
 
 
 ### Scope
 
--We have simple website with our store, customers can select products to 'Add to cart' button, and can remove products from their cart specifying the quantity of each item. Selected items will be collected in a cart. At checkout, the item on the card will be presented as an order. Customer can pay for the items in the cart to complete an order [live site](https://tukeshwari2.pythonanywhere.com/).
+-We have simple website with our store, customers can select products to 'Add to cart' button, and can remove products from their cart specifying the quantity of each item. Selected items will be collected in a cart. At checkout, the item on the card will be presented as an order. Customer can pay for the items in the cart to complete an order.
 
 ### Links
 
